@@ -30,7 +30,7 @@ This project uses a webcam and the Mediapipe library to recognize hand gestures 
 
 - **Thumbs up** → Brake (S key)
 
-- ** Index finger left **→ Turn left (A key)
+- i**ndex finger left** → Turn left (A key)
 
 -  **Index finger right** → Turn right (D key)
 
