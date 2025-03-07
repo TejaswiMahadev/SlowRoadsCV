@@ -30,10 +30,10 @@ This project uses a webcam and the Mediapipe library to recognize hand gestures 
 
 - **Thumbs up** → Brake (S key)
 
--** Index finger left **→ Turn left (A key)
+- ** Index finger left **→ Turn left (A key)
 
-- **Index finger right** → Turn right (D key)
+-  **Index finger right** → Turn right (D key)
 
--** Keyboard Control**: Sends corresponding keypresses using pynput to simulate driving controls.
+- ** Keyboard Control**: Sends corresponding keypresses using pynput to simulate driving controls.
 
--** Real-time Display**: Shows FPS and active controls on the screen using OpenCV.
+- ** Real-time Display**: Shows FPS and active controls on the screen using OpenCV.
