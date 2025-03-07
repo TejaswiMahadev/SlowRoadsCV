@@ -36,4 +36,4 @@ This project uses a webcam and the Mediapipe library to recognize hand gestures 
 
 - **Keyboard Control** : Sends corresponding keypresses using pynput to simulate driving controls.
 
-- ** Real-time Display** : Shows FPS and active controls on the screen using OpenCV.
+- **Real-time Display** : Shows FPS and active controls on the screen using OpenCV.
